@@ -5,11 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -20,10 +15,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2> Prerequisites Needed and Step by Step osTicket Setup</h2>
 
-- Item 1
-- Item 2
+- First I enabled IIS in Control panel > Programs > Turn Windows Features on or off. Next you want to hit the drop down menu and enable 'CGI' inside of the 'Application Development Features' folder. Lastly in the 'Common HTTP Features' folder make sure all folders are checked. (As depicted below.)
+
+- For trouble shooting and making sure everything was done correctly, simply go on a internet browser and type the loopback address, '127.0.0.1' and you should be displayed with an IIS webpage. (Also shown below)
+
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/fe30a78b-4935-4cde-9b39-547a6d6347cf)
+
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/5b216df6-a7c7-472f-b442-c1228553ba14)
+
+- then
 - Item 3
 - Item 4
 - Item 5
