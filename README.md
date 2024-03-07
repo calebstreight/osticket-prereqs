@@ -108,7 +108,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Next we are going to hit 'continue' on osTicket installer webpage and fill it out. (Shown below)
 
-  ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/9698a775-f1d1-40f2-b39f-a78099663e52)
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/a83b8b2c-c401-4afa-b01f-34949f28337c)
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/b5f8ade1-1a61-4038-9348-0d54806ad1fd)
 
 
 - Next We're gonna install 'HeidiSQL' which allows us to connect to that SQL data base. (Shown below)
@@ -116,7 +117,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/c4162211-f6c2-4c36-8748-51959dfd46df)
 
 
-- Next Inside of HeidiSQL click new and use your password that you created earlier that I mentioned to keep track of. Once that is entered we are connected to the server. (Shown below) 
+- Next Inside of HeidiSQL use your password that you created earlier that I mentioned to keep track of. Once that is entered we are connected to the server. (Shown below) 
 
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/ee5bdbf5-e076-4d5b-8b9f-28a9af75b22b)
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/1da9d930-7558-4a1e-98a8-c0fabc337ba0)
