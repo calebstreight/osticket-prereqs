@@ -136,4 +136,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Lastly click 'Install' on the bottom of the osTicket webpage. If everything is done correctly you will have osTicket up and running. Use 'admin' information you just filled out to log in. (Shown below)
 
   ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/8c4cff7e-32a1-402d-ad3a-bf9e84b948ab)
+  ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/ea78cd93-0d40-4f2b-83a3-32807180d5b2)
 
