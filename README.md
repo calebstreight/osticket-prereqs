@@ -64,7 +64,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/c58f9b77-3c8c-4b76-9ecb-f45df3788f83)
 
 
-- Next Download osTicket and Extract 'upload' folder to c:\inetpub\wwwroot. Then Within c:\inetpub\wwwroot, Rename 'upload' to 'osTicket'. After this step is finished restart 'IIS' again as shown above. (Shown below)
+- Next Download osTicket and Extract 'upload' folder to c:\inetpub\wwwroot. Then Within c:\inetpub\wwwroot, Rename 'upload' to 'osTicket'. After this step is finished restart 'IIS' again. (Shown below)
 
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/fbb4da8a-91d3-42dd-a94d-548cf644ffff)
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/73cf65a6-47ac-43b4-bc78-6308d6bf1212)
