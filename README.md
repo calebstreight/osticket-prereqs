@@ -114,4 +114,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Next We're gonna install 'HeidiSQL' which allows us to connect to that SQL data base. (Shown below)
 
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/c4162211-f6c2-4c36-8748-51959dfd46df)
+
+
+- Next Inside of HeidiSQL click new and use your password that you created earlier that I mentioned to keep track of. Once that is entered we are connected to the server. (Shown below) 
+
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/ee5bdbf5-e076-4d5b-8b9f-28a9af75b22b)
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/1da9d930-7558-4a1e-98a8-c0fabc337ba0)
+
+
+- Next in the HeidiSQL data base we are going to create a new data base by right clicking on 'unnamed' and scrolling down to 'create new' and then click 'data base' and name it 'osTicket'. (Show below)
+
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/d58e3a53-87d1-469e-86b6-4e243a8b4d64)
+
+
+- Go back to the osTicket browser installtion site and finish filling out the 'SQL' portion. We will use the username and password that we used to login to HeidiSQl and the 'SQL database' name is the one we just created which is 'osTicket'. (Shown below)
+
+![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/53b76d43-2a6f-46a4-b9f6-fe5aa9173d3d)
+
+
+- Lastly click 'Install' on the bottom of the osTicket webpage. If everything is done correctly you will have osTicket up and running. Use 'admin' information you just filled out to log in. (Shown below)
+
+  ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/8c4cff7e-32a1-402d-ad3a-bf9e84b948ab)
 
