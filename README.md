@@ -128,7 +128,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/d58e3a53-87d1-469e-86b6-4e243a8b4d64)
 
 
-- Go back to the osTicket browser installtion site and finish filling out the 'SQL' portion. We will use the username and password that we used to login to HeidiSQl and the 'SQL database' name is the one we just created which is 'osTicket'. (Shown below)
+- Go back to the osTicket browser installtion site and finish filling out the 'SQL' portion. We will use the username and password that we used to login to HeidiSQL and the 'SQL database' name is the one we just created which is 'osTicket'. (Shown below)
 
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/53b76d43-2a6f-46a4-b9f6-fe5aa9173d3d)
 
