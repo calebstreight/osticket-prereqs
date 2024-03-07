@@ -99,8 +99,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/cee26d96-2db1-4fb4-a678-5b507b82c05d)
 
 
-- Next Assign Permissions: ost-config.php Disable inheritance -> Remove All
- New Permissions -> Everyone -> All (setting this file so everyone has permissions to make changes to it. This is because osTicket will be manipulating this folder.) (Shown below) properties > Security > Advanced > Disable Inheritance > Add > Everyone.
+- Next Assign Permissions: ost-config.php Disable inheritance -> Remove All ---- New Permissions -> Everyone -> All (setting this file so everyone has permissions to make changes to it. This is because osTicket will be manipulating this folder.) (Shown below) properties > Security > Advanced > Disable Inheritance > Add > Everyone.
 
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/95075f5d-cd5e-4468-bbbc-14cb78d63c72)
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/0df4666a-1f04-4cac-9bef-34e9bb1f1589)
