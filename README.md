@@ -94,7 +94,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
   - Next rename a folder From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
-  To: C:\inetpub\wwwroot\osTicket\include\ost-config.php delete 'sample' from file. (Shown below)
+  To: C:\inetpub\wwwroot\osTicket\include\ost-config.php. delete 'sample' from file. (Shown below)
 
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/cee26d96-2db1-4fb4-a678-5b507b82c05d)
 
