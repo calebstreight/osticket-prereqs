@@ -71,7 +71,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/cb450aee-f660-4e30-b369-c6dd1a319e9b)
 
 
-- Next inside of 'IIS' on the left side click the drop down on 'Sites' folder then the drop down on 'Default Web Site' and then highlight 'osTicket'. Once 'osTicket' is highlighted click 'Browse *:80(http) on the right (Shown below)
+- Next inside of 'IIS' on the left side click the drop down on 'Sites' folder then the drop down on 'Default Web Site' and then highlight 'osTicket'. Once 'osTicket' is highlighted click 'Browse *:80(http)' on the right (Shown below)
 
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/c6ea6930-f931-438a-9eab-ed9ad7d67ff7)
 ![image](https://github.com/calebstreight/osticket-prereqs/assets/162412951/68d03cb2-636e-406f-9b87-ccb61a783ac3)
